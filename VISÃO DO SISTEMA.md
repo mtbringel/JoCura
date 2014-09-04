@@ -1,8 +1,8 @@
 JoCura
 ======
 
-Sistema para registro de sintomas. 
-Analisa e retorna possíveis diagnósticos referentes a doenças e receitas médias. 
+Sistema para registro de sintomas de doenças. 
+Analisa e retorna possíveis diagnósticos referentes a doenças e receitas médicas. 
 Inicialmente designado para uso exclusivo de pediatras certificados.
 
 
