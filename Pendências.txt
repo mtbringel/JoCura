@@ -1,0 +1,15 @@
+- Diagrama Classes (corrigir)
+
+- Diagrama Classes Domínio
+
+- Interface gráfica
+	- Definir e dominar ferramenta
+	- Digitalizar Rascunho
+
+- Especificação de UC
+	- Corrigir com modelo
+	- inserir Interfaces
+	- UC05
+	- UC14
+- Dúvida
+	-entregar quantos D. classe?
